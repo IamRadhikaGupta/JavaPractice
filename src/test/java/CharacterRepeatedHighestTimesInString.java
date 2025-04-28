@@ -28,10 +28,13 @@ public class CharacterRepeatedHighestTimesInString {
         //Print map
         for(Map.Entry entry:map.entrySet()){
             System.out.println(entry.getKey()+"---------" + entry.getValue());
-        }
-
 
         }
+
+        //find the substring having non repeated chars
+
+
+    }
 
     }
 
